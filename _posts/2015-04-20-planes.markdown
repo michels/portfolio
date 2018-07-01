@@ -1,10 +1,10 @@
 ---
-title:  "Planes are cool!"
-subtitle: "The Fly!"
-author: "Wferr"
+title:  "I'm an Entrepreneur"
+subtitle: "Founding awesome startups"
+author: "Michael H&uuml;bl"
 avatar: "img/authors/wferr.png"
-image: "img/a.jpg"
-date:   2015-04-20 12:12:12
+image: "img/entrepreneurship.jpg"
+date:   2018-06-01 12:12:12
 ---
 
 ### Dolor sit amet?
