@@ -1,6 +1,6 @@
 ---
 title:  "I am a Helping Hand"
-subtitle: "don't hesitate for help or advice."
+subtitle: "don't hesitate to ask for help or advice."
 author: "Michael H&uuml;bl"
 avatar: "img/authors/huebl.png"
 image: "img/helping-hand.jpg"
