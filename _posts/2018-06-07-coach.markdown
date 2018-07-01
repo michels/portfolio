@@ -11,7 +11,7 @@ I love sharing my thoughts and learnings about best practices in Product Managem
 
 ### Presentations
 
-Some of my presentations can be found online.
+Some of my thoughts can be found online.
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/6z7zLuAOLAWqce" width="660" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/michaelhuebl/how-our-product-team-works" title="How our product team works" target="_blank">How our product team works</a> </strong> from <strong><a href="https://www.slideshare.net/michaelhuebl" target="_blank">Michael Hübl</a></strong> </div>
 

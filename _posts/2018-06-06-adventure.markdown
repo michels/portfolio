@@ -1,6 +1,6 @@
 ---
 title:  "I am an Adventurer"
-subtitle: "already climbed 2 of the 7 summits"
+subtitle: "already climbed 2 of the 7 summits."
 author: "Michael H&uuml;bl"
 avatar: "img/authors/huebl.png"
 image: "img/adventure.jpg"
