@@ -1,10 +1,10 @@
 ---
-title:  "Nobody else was around."
-subtitle: "A Beautiful shot during the night."
-author: "Wferr"
-avatar: "img/authors/wferr.png"
-image: "img/b.jpg"
-date:   2015-04-21 12:12:12
+title:  "I am a Helping Hand"
+subtitle: "don't hesitate for help or advice."
+author: "Michael H&uuml;bl"
+avatar: "img/authors/huebl.png"
+image: "img/helping-hand.jpg"
+date:   2018-06-05 12:12:12
 ---
 
 ### Dolor sit amet?
