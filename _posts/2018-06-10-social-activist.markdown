@@ -1,10 +1,10 @@
 ---
-title:  "A Craftsman Workshop"
-subtitle: "It's always a bit messy"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
-image: "img/f.jpg"
-date:   2015-04-25 12:12:12
+title:  "I’m a Social Activist"
+subtitle: "fostering Entrepeneurship and Innovation"
+author: "Michael H&uuml;bl"
+avatar: "img/authors/huebl.png"
+image: "img/social.jpg"
+date:   2018-06-02 12:12:12
 ---
 
 ### Dolor sit amet?

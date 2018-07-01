@@ -2,7 +2,7 @@
 title:  "I'm an Entrepreneur"
 subtitle: "Founding awesome startups"
 author: "Michael H&uuml;bl"
-avatar: "img/authors/wferr.png"
+avatar: "img/authors/huebl.png"
 image: "img/entrepreneurship.jpg"
 date:   2018-06-01 12:12:12
 ---
