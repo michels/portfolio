@@ -7,14 +7,32 @@ image: "img/entrepreneurship.jpg"
 date:   2018-06-10 12:12:12
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+I am a serial entrepreneur who got awarded for his work multiple times. My latest company flinc, a dynamic ridesharing service, got acquired by Daimler in September 2017.
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+### Being flinc and flott
+![flinc](img/posts/flinc.png "flinc")
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+I co-founded flinc in 2010 and led the company as Managing Director and Chief Product officer until its acquisition in 2017. With over 500k registered users and well-known investors like General Motors Ventures and Deutsche Bahn Ventures it was one of the leading platforms in Central Europe. Large enterprise customers like BASF, P&G, Hugo Boss etc made it market leader in Corporate Ridesharing.
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
+![flinc](img/posts/flott.png "flott")
+In 2016 we introduced a subbrand "flott" which was specialised in providing an on-demand mobility platform as well as conducting big data simulations of traffic scenarios especially in the autonomous car sector.
 
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+
+### Awards
+
+#### Top 100
+I was named as "Top 100 of german internet personalities" in 2012 by Wirtschaftswoche.
+
+#### Best Startup
+flinc was nominated as Best Startup at T3N Awards and Techcrunch "The Europas"
+
+#### Other
+- Winner Weconomy, 2010
+- Winner „Best presentation award” at European Venture Summit, 2010
+- Winner „Rhine-Neckar Technology Ventures Pitch”, 2010
+- Winner Pioniergeist, 2011
+- Winner „Bitkom Urban Solutions Pitch”, 2012
+- Winner “VisionAward”, 2012
+- Winner „Next Station Pitch” Deutsche Bahn, 2014
+- Winner „Greentec Award - Europe’s largest environmental and business prize”, 2014
+- Winner “Transportation system of the year”, Energy Award, 2014
