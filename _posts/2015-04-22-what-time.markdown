@@ -1,10 +1,10 @@
 ---
-title:  "Watches"
-subtitle: "The Bigger the better?"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
-image: "img/c.jpg"
-date:   2015-04-22 12:12:12
+title:  "I am an Adventurer"
+subtitle: "already climbed 2 of the 7 summits"
+author: "Michael H&uuml;bl"
+avatar: "img/authors/huebl.png"
+image: "img/adventure.jpg"
+date:   2018-06-06 12:12:12
 ---
 
 ### Dolor sit amet?

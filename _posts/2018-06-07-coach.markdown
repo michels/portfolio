@@ -1,10 +1,10 @@
 ---
-title:  "Absense of light"
-subtitle: "Only lights from space"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
-image: "img/d.jpg"
-date:   2015-04-23 12:12:12
+title:  "I am a Coach"
+subtitle: "for Product Management and Culture"
+author: "Michael H&uuml;bl"
+avatar: "img/authors/huebl.png"
+image: "img/coach.jpg"
+date:   2018-06-07 12:12:12
 ---
 
 ### Dolor sit amet?
