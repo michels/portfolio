@@ -1,10 +1,10 @@
 ---
-title:  "I’m a Social Activist"
-subtitle: "fostering Entrepeneurship and Innovation"
+title:  "I am a Social Activist"
+subtitle: "fostering Entrepeneurship and Innovation."
 author: "Michael H&uuml;bl"
 avatar: "img/authors/huebl.png"
 image: "img/social.jpg"
-date:   2018-06-02 12:12:12
+date:   2018-06-09 12:12:12
 ---
 
 ### Dolor sit amet?

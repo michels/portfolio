@@ -1,10 +1,10 @@
 ---
-title:  "I'm an Entrepreneur"
-subtitle: "Founding awesome startups"
+title:  "I am an Entrepreneur"
+subtitle: "founding awesome startups."
 author: "Michael H&uuml;bl"
 avatar: "img/authors/huebl.png"
 image: "img/entrepreneurship.jpg"
-date:   2018-06-01 12:12:12
+date:   2018-06-10 12:12:12
 ---
 
 ### Dolor sit amet?
