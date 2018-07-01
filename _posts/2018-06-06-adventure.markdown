@@ -12,3 +12,5 @@ I love getting out of my comfort zone - the greater the problems, the more I’m
 ![Elbrus](img/posts/elbrus.jpg "Elbrus")
 
 ![Kilimanjaro](img/posts/kilimanjaro.jpg "Kilimanjaro")
+
+![Siberia](img/posts/siberia.jpg "Siberia")
