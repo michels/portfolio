@@ -21,7 +21,7 @@ In 2016 we introduced "flott" which was specialised in providing an on-demand mo
 ### Awards
 
 #### Top 100
-I was named as "Top 100 of german internet personalities" in 2012 by Wirtschaftswoche.
+I was named as "Top 100 of german internet personalities" by Wirtschaftswoche.
 
 #### Best Startup
 flinc was nominated as Best Startup at T3N Awards and Techcrunch "The Europas"

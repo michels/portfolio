@@ -13,7 +13,13 @@ I love sharing my thoughts and learnings about best practices in Product Managem
 
 Some of my thoughts can be found online.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/6z7zLuAOLAWqce" width="660" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/michaelhuebl/how-our-product-team-works" title="How our product team works" target="_blank">How our product team works</a> </strong> from <strong><a href="https://www.slideshare.net/michaelhuebl" target="_blank">Michael Hübl</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/6z7zLuAOLAWqce" width="660" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/LI4JIwWniIeUiR" width="660" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/michaelhuebl/how-flinc-works-best-practices-after-5-years-of-company-building" title="How flinc works - best practices after 5 years of Company Building" target="_blank">How flinc works - best practices after 5 years of Company Building</a> </strong> from <strong><a href="https://www.slideshare.net/michaelhuebl" target="_blank">Michael Hübl</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/LI4JIwWniIeUiR" width="660" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+### Product Tank Frankfurt
+
+Since 2017 I am one of the organizers of Product Tank Frankfurt - a regular gathering of product managers sharing knowledge and learning from each other
+
+![producttank](img/posts/producttank.jpg "producttank")

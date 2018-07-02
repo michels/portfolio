@@ -14,3 +14,5 @@ I love getting out of my comfort zone - the greater the problems, the more I’m
 ![Kilimanjaro](img/posts/kilimanjaro.jpg "Kilimanjaro")
 
 ![Siberia](img/posts/siberia.jpg "Siberia")
+
+![Congo](img/posts/congo.jpg "Congo")
