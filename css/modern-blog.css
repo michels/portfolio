@@ -55,6 +55,11 @@
 	background: #fff;
 }
 
+div.card__copy p img {
+	width: 100%;
+  height: auto;
+}
+
 .card__container--closed .card__content {
 	margin-top: 0;
 	padding: 0 16px;
