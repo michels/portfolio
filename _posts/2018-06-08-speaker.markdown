@@ -9,7 +9,7 @@ date:   2018-06-08 12:12:12
 
 I love sharing knowledge and entertaining people. As keynote speaker I had the opportunity to talk to audiences all over the world.
 
-### Talks & Keynotes (extract) 
+### Talks & Keynotes (extract)
 - Mobile World Congress, Barcelona „Dare to dream“
 - TEDx, Frankfurt „The end of owning cars“
 - 2b Ahead Think Tank, Wolfsburg speech about the future of mobility
@@ -19,6 +19,8 @@ I love sharing knowledge and entertaining people. As keynote speaker I had the o
 - Startup Weekend, Frankfurt Mentorship
 - Future of Nav conference, Paris „How to get more user engagement“
 - Cebit, Hannover / IFA, Berlin about dynamic ridesharing
+- FuckUp Nights, Frankfurt "Startup Rollercoaster"
+- Product Hunt, Frankfurt
 
 ### Others about my talks
 ![praise](img/posts/praise.png "praise")
