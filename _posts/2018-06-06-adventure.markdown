@@ -7,7 +7,7 @@ image: "img/adventure.jpg"
 date:   2018-06-06 12:12:12
 ---
 
-I love getting out of my comfort zone - the greater the problems, the more I’m into it. Whether it's a high mountain, the endless landscapes in Siberia or discovering new places in Africa, I just love getting around and maling friends in new cultures.
+I love getting out of my comfort zone - the greater the problems, the more I’m into it. Whether it's a high mountain, the endless landscapes in Siberia or discovering new places in Africa - I just love getting around and making friends in new cultures.
 
 ![Elbrus](img/posts/elbrus.jpg "Elbrus")
 
