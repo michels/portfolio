@@ -12,10 +12,10 @@ I am a serial entrepreneur who got awarded for his work multiple times. My lates
 ### Being flinc and flott
 ![flinc](img/posts/flinc.png "flinc")
 
-I co-founded flinc in 2010 and led the company as Managing Director and Chief Product officer until its acquisition in 2017. With over 500k registered users and well-known investors like General Motors Ventures and Deutsche Bahn Ventures it was one of the leading platforms in Central Europe. Large enterprise customers like BASF, P&G, Hugo Boss etc made it market leader in Corporate Ridesharing.
+I co-founded flinc in 2010 and led the company as Managing Director and Chief Product Officer until its acquisition in 2017. With over 500k registered users and well-known investors like General Motors Ventures and Deutsche Bahn Ventures it was one of the leading platforms in Central Europe. Large enterprise customers like BASF, P&G, Hugo Boss etc made it market leader in Corporate Ridesharing.
 
 ![flinc](img/posts/flott.png "flott")
-In 2016 we introduced a subbrand "flott" which was specialised in providing an on-demand mobility platform as well as conducting big data simulations of traffic scenarios especially in the autonomous car sector.
+In 2016 we introduced "flott" which was specialised in providing an on-demand mobility platform as well as conducting big data simulations of traffic scenarios especially for the autonomous car on-demand sector.
 
 
 ### Awards
